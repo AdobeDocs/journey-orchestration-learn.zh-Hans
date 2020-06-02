@@ -4,11 +4,12 @@ description: 此视频介绍如何为旅程编排事件配置XDM模式和数据�
 feature: Journey Orchestration
 topics: Events
 kt: 3731
+thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 795b30fe984b7fe715789144e8c421028d7d32ac
+source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -45,7 +46,7 @@ ht-degree: 0%
 
 以下视频介绍如何：
 
-* 为模式配置XDM事件和数据集 [!UICONTROL Journey Orchestration]
+* 为模式配置XDM事件和数 [!UICONTROL Journey Orchestration] 据集
 * 定义事件 [!UICONTROL Journey Orchestration]
 * 将源系统配置为流事件
 
