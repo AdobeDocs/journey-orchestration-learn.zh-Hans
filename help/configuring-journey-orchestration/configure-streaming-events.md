@@ -1,6 +1,6 @@
 ---
-title: 为Adobe旅程编排配置流事件
-description: 此视频介绍如何为旅程编排事件配置XDM模式和数据集、定义旅程编排事件以及配置源系统以流式事件
+title: 为Adobe事件配置流Journey Orchestration
+description: 此视频介绍如何为Journey Orchestration事件配置XDM模式和数据集、定义Journey Orchestration事件，以及将源系统配置为流事件
 feature: Journey Orchestration
 topics: Events
 kt: 3731
@@ -9,7 +9,7 @@ audience: developer
 doc-type: video
 activity: setup
 translation-type: tm+mt
-source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
+source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 0%
@@ -24,9 +24,10 @@ ht-degree: 0%
 * 个人的直接操作（例如，他们购买产品、访问商店或放弃在线购物车），或
 * 与个人相关的事情（例如，他们达到10,000个忠诚点）
 
-[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 将通过以下方式发送到Adobe Experience [!UICONTROL streaming ingestion]Platform。
+[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 将通过发送给Adobe Experience Platform [!UICONTROL streaming ingestion]。
 
 >[!NOTE]
+>
 >您需要熟悉：
 >
 >* [体验数据模型(XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
@@ -34,12 +35,10 @@ ht-degree: 0%
 >* [流数据摄取](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
-要了解视频中使用的示例，您还应熟悉以下Adobe Experience Platform Services:
+要了解视频中使用的示例，您还应熟悉以下Adobe Experience Platform服务：
 >
->* [Adobe Experience Platform Mobile SDK - Launch](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform定位服务](https://docs.adobe.com/content/help/en/places/using/home.html)
->
-
+>* [Adobe Experience Platform移动SDK —— 启动](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+>* [Adobe Experience Platform位置服务](https://docs.adobe.com/content/help/en/places/using/home.html)
 
 
 ## How to configure [!UICONTROL streaming events]
@@ -54,5 +53,5 @@ ht-degree: 0%
 
 ## 其他资源
 
-* [旅程编排帮助中心](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
+* [Journey Orchestration帮助中心](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html):
    * [关于事件](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
