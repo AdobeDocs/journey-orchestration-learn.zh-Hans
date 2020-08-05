@@ -3,7 +3,7 @@ title: Journey OrchestrationTutorials-概述
 description: Journey Orchestration允许您利用事件或数据源中存储的情境数据构建实时业务流程使用案例
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
+source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 * **[报告旅程事件到Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
    *了解事件是什么旅程步骤，在Experience Platform上自动创建哪些数据步骤，以及如何探索这些步骤。*
-* **[使用细分资格事件](help/using-segment-qualification-events.md)**   <br>
+* **[使用细分资格事件](/help/using-segment-qualification-events.md)**   <br>
    *此视频简要介绍如何创建将区段资格事件作为入口或出口点的旅程。*
 
 ## 员工挑选
