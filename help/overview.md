@@ -1,24 +1,26 @@
 ---
-title: 旅程编排教程——概述
-description: 旅程编排允许您利用存储在事件或数据源中的情境数据构建实时业务流程使用案例
+title: Journey OrchestrationTutorials-概述
+description: Journey Orchestration允许您利用事件或数据源中存储的情境数据构建实时业务流程使用案例
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: d8a3de100c1b0607abf16e59dba8a5783f6097fc
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 1%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
 
 # 概述
 
-[!UICONTROL Journey Orchestration] 是与Adobe Experience Platform集成的应用程序服务。 它允许您利用存储在事件或数据源中的情境数据构建实时业务流程使用案例。
+[!UICONTROL Journey Orchestration] 是与Adobe Experience Platform集成的应用服务。 它允许您利用存储在事件或数据源中的情境数据构建实时业务流程使用案例。
 
 ## 新增内容
 
-* **[如何找到旅程编排帮助](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
-   *了解您可以快速找到相关问题的答案[!UICONTROL Journey Orchestration]，如何与支持部门联系，在何处记录支持票证，以及如何向我们提供反馈。*
+* **[报告旅程事件到Adobe Experience Platform](/help/how-to-find-help-with-journey-orchestration.md)**   <br>
+   *了解事件是什么旅程步骤，在Experience Platform上自动创建哪些数据步骤，以及如何探索这些步骤。*
+* **[使用细分资格事件](help/using-segment-qualification-events.md)**   <br>
+   *此视频简要介绍如何创建将区段资格事件作为入口或出口点的旅程。*
 
 ## 员工挑选
 
@@ -26,15 +28,15 @@ ht-degree: 1%
 <tr>
   <td>
     <a href="./understanding-journey-orchestration.md">
-      <img alt="了解旅程安排" src="./assets/journey-orchestration-example.png"/>
+      <img alt="了解Journey Orchestration" src="./assets/journey-orchestration-example.png"/>
     </a>
     <div>
       <a href="./understanding-journey-orchestration.md">
-    <strong>了解旅程安排</strong>
+    <strong>了解Journey Orchestration</strong>
     </a>
     </div>
     <p>
-    <em>了解旅程编排的概念、它支持的使用案例类型以及旅程编排工作方式的关键元素。</em>
+    <em>了解Journey Orchestration的概念、它启用的使用案例类型以及Journey Orchestration工作方式的关键元素。</em>
     <p>
   </td>
   <td>
@@ -68,6 +70,6 @@ ht-degree: 1%
 
 ## 其他资源
 
-* [旅程编排帮助中心](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform教程](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Journey Orchestration帮助中心](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
+* [Adobe Experience PlatformTutorials](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
 
