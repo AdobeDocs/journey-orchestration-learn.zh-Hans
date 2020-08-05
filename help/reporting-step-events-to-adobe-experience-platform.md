@@ -1,6 +1,6 @@
 ---
-title: '报告旅程步骤事件到Adobe Experience Platform '
-description: 本教程介绍如何导航到旅程的报告、如何自定义报表的日期范围以及如何保存报告模板以供将来使用。
+title: '报告旅程事件到Adobe Experience Platform '
+description: 以下视频介绍了事件是什么旅程步骤，在Experience Platform上自动创建了哪些数据步骤，以及如何探索这些步骤。
 feature: Journey Orchestration
 topics: Introduction
 kt: 5488
@@ -9,10 +9,10 @@ audience: user
 doc-type: video
 activity: use
 translation-type: tm+mt
-source-git-commit: 3d8621e0bdda1aa6b9a576fca07aacebd1ad46d5
+source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
