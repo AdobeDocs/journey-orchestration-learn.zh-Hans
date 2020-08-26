@@ -3,7 +3,7 @@ title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
+source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 80%
@@ -17,7 +17,7 @@ ht-degree: 80%
 
 ## 新增内容
 
-* **[向 Adobe Experience Platform 报告旅程步骤事件](/help/how-to-find-help-with-journey-orchestration.md)**
+* **[向 Adobe Experience Platform 报告旅程步骤事件](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
    *了解事件是什么旅程步骤，在Experience Platform上自动创建哪些数据步骤，以及如何探索这些步骤。*
