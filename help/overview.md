@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 80%
 * **[向 Adobe Experience Platform 报告旅程步骤事件](/help/reporting-step-events-to-adobe-experience-platform.md)**
 
    <br>
-   *了解事件是什么旅程步骤，在Experience Platform上自动创建哪些数据步骤，以及如何探索这些步骤。*
-* **[使用细分资格事件](/help/using-segment-qualification-events.md)**
+   *了解事件是什么旅程步骤，在 Experience Platform 上自动创建哪些数据步骤，以及如何探索这些步骤。*
+* **[使用区段鉴别事件](/help/using-segment-qualification-events.md)**
 
    <br>
-   *此视频简要介绍如何创建将区段资格事件作为入口或出口点的旅程。*
+   *此视频简要介绍如何创建将区段鉴别事件作为入口或出口点的旅程。*
 
 ## 员工挑选
 
