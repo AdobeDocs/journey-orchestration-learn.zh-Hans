@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: f2533c2ec19d525d6366fa5366c82900eea9c5ff
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 95%
 + [概述](/help/overview.md)
 + [了解 Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [配置流事件](/help/configuring-journey-orchestration/configure-streaming-events.md)
-+ [使用细分资格事件](/help/using-segment-qualification-events.md)
++ [使用区段鉴别事件](/help/using-segment-qualification-events.md)
 + [配置数据源](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [配置操作](/help/configuring-journey-orchestration/configure-actions.md)
 + [创建旅程](/help/create-a-journey.md)
