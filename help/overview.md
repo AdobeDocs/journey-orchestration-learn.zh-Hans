@@ -75,5 +75,5 @@ ht-degree: 100%
 ## 其他资源
 
 * [Journey Orchestration 帮助中心](https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 教程](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform 教程](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/overview.html)
 
