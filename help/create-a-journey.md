@@ -8,9 +8,9 @@ thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 150119daaa767b925fdfbf6d277d2340e209f418
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 使用 [!UICONTROL Orchestration] 控件控制旅程的流量和时间
 * 使用操作参与旅程中的各个点。
 
->[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
 
 ## 其他资源
 
