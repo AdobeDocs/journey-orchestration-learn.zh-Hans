@@ -9,9 +9,8 @@ tutorials-title: 教程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hans/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: 帮助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html
-type: Tutorial
 translation-type: tm+mt
-source-git-commit: 7c975de38ccd3ab724bafd8d53118eb092b844fe
+source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
