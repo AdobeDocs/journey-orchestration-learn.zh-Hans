@@ -8,9 +8,9 @@ thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 524e075e4ac49e3aedc10a1fa879dbab4fe5888e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 [!UICONTROL Journey Orchestration] 自动将旅程性能数据发送到 [!UICONTROL Adobe Experience Platform]，以使其可与其他数据结合进行分析。
 以下视频说明什么是 [!UICONTROL journey step events]，哪些 [!UICONTROL data steps] 是在 [!UICONTROL Experience Platform] 上自动进行创建，以及如何探索这些步骤。
 
->[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
 ## 其他资源
 
