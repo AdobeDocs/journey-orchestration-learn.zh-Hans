@@ -1,6 +1,6 @@
 ---
 title: 为Adobe事件配置流Journey Orchestration
-description: 此视频介绍如何为 Journey Orchestration 事件配置 XDM 模式和数据集、在 Journey Orchestration 中定义事件，以及配置流事件的源系统
+description: 此视频介绍如何为 Journey Orchestration 事件配置 XDM 模式和数据集、在 Journey Orchestration 中定义事件，以及配置配置源系统来形成事件流
 feature: Journey Orchestration
 topics: Events
 kt: 3731
@@ -19,7 +19,7 @@ ht-degree: 36%
 
 # 配置流事件
 
-[!UICONTROL Journey Orchestration] 倾听事件，并根据这些事件安排客户旅程中的最佳下一步行动。 事件可以与：
+[!UICONTROL Journey Orchestration] 倾听事件，并根据这些事件安排客户旅程中的最佳下一步行动。事件可以与：
 
 * 个人的直接操作（例如，他们购买产品、访问商店或放弃在线购物车），或
 * 与个人相关的事情（例如，他们达到10,000个忠诚点）
@@ -41,12 +41,12 @@ ht-degree: 36%
 >* [Adobe Experience Platform 位置服务](https://docs.adobe.com/content/help/zh-Hans/places/using/home.html)
 
 
-## How to configure [!UICONTROL streaming events]
+## 如何配置[!UICONTROL streaming events]
 
 以下视频介绍如何：
 
-* 为模式配置XDM事件和数据集 [!UICONTROL Journey Orchestration]
-* 定义事件 [!UICONTROL Journey Orchestration]
+* 为[!UICONTROL Journey Orchestration]模式配置XDM事件和数据集
+* 在[!UICONTROL Journey Orchestration]中定义事件
 * 将源系统配置为流事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
