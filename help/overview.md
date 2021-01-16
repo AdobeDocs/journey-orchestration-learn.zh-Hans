@@ -3,10 +3,10 @@ title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 7ad1bc51bc8cf195759031056d45599c96388991
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 93%
 
 ---
 
@@ -17,14 +17,10 @@ ht-degree: 100%
 
 ## 新增内容
 
-* **[向 Adobe Experience Platform 报告旅程步骤事件](/help/reporting-step-events-to-adobe-experience-platform.md)**
+* **[跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *了解事件是什么旅程步骤，在 Experience Platform 上自动创建哪些数据步骤，以及如何探索这些步骤。*
-* **[使用区段鉴别事件](/help/using-segment-qualification-events.md)**
-
-   <br>
-   *此视频简要介绍如何创建将区段鉴别事件作为入口或出口点的旅程。*
+   *了解如何将个人从一个旅程推向另一个旅程。*
 
 ## 员工挑选
 
