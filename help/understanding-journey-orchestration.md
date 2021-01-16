@@ -9,7 +9,7 @@ audience: user, developer
 doc-type: video
 activity: understand
 translation-type: tm+mt
-source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 100%
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 ## 如何创建、发布和分析旅程
 
-1. [创建旅程](/help/create-a-journey.md)
+1. [创建旅程](/help/building-a-journey/creating-a-journey.md)
 1. [验证和发布旅程](/help/validate-and-publish-a-journey.md)
 1. [通过报告工具分析旅程](/help/analyze-a-journey-via-reporting-tools.md)
 
