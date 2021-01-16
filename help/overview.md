@@ -3,7 +3,7 @@ title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 93%
@@ -40,11 +40,11 @@ ht-degree: 93%
     <p>
   </td>
   <td>
-    <a href="./create-a-journey.md">
+    <a href="./building-a-journey/creating-a-journey.md">
         <img alt="创建旅程（视频）" src="./assets/journey34.png"/>
     </a>
     <div>
-      <a href="./create-a-journey.md">
+      <a href="./building-a-journey/creating-a-journey.md">
     <strong>创建旅程（视频）</strong>
     </a>
     </div>
