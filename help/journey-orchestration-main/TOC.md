@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/journey-orchestration
 getting-started-title: 帮助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html
 translation-type: tm+mt
-source-git-commit: a8d066e15a4ab664b86a1bc8975b1b3f6414bf90
+source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 95%
 
 ---
 
@@ -26,7 +26,9 @@ ht-degree: 100%
 + [使用区段鉴别事件](/help/using-segment-qualification-events.md)
 + [配置数据源](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [配置操作](/help/configuring-journey-orchestration/configure-actions.md)
-+ [创建旅程](/help/create-a-journey.md)
++ 构建旅程 {#building-a-journey}
+   + [创建旅程](/help/building-a-journey/creating-a-journey.md)
+   + [跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)
 + [验证和发布旅程](/help/validate-and-publish-a-journey.md)
 + [通过报告工具分析旅程](/help/analyze-a-journey-via-reporting-tools.md)
 + [向 Adobe Experience Platform 报告旅程步骤事件 ](/help/reporting-step-events-to-adobe-experience-platform.md)
