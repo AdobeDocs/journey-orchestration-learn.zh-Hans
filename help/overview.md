@@ -2,11 +2,11 @@
 title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: c48c2e522fee95651f1a7b68cf17d6242c898242
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 93%
 * **[跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)**
 
    <br>
-   *了解如何将个人从一个旅程推向另一个旅程。*
+   *了解如何将个人从一个旅程推送另一个旅程。*
 
 ## 员工挑选
 
