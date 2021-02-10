@@ -9,11 +9,11 @@ tutorials-title: 教程
 tutorials-url: https://docs.adobe.com/content/help/zh-Hans/journey-orchestration-learn/tutorials/overview.html
 getting-started-title: 帮助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2af08154744d0ae8b9107b2abf3fe2bdcae73ac5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '97'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,8 +26,8 @@ ht-degree: 92%
 + [使用区段鉴别事件](/help/using-segment-qualification-events.md)
 + [配置数据源](/help/configuring-journey-orchestration/configure-data-sources.md)
 + [配置操作](/help/configuring-journey-orchestration/configure-actions.md)
-+ 构建旅程{#building-a-journey}
-   + [创建旅程](/help/building-a-journey/creating-a-journey.md)
++ 构建旅程 {#building-a-journey}
+   + [创建历程](/help/building-a-journey/creating-a-journey.md)
    + [跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)
 + [验证和发布旅程](/help/validate-and-publish-a-journey.md)
 + [通过报告工具分析旅程](/help/analyze-a-journey-via-reporting-tools.md)
