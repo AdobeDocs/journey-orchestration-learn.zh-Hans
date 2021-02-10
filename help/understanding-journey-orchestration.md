@@ -8,9 +8,9 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '326'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 它支持的用例类型
 * [!UICONTROL Journey Orchestration] 工作原理的关键要素
 
->[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29307?quality=12&captions=chi_hans)
 
 ## 如何配置旅程
 
