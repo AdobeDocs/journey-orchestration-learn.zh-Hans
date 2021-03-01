@@ -1,5 +1,5 @@
 ---
-title: 为Adobe事件配置流Journey Orchestration
+title: 为AdobeJourney Orchestration配置流事件
 description: 此视频介绍如何为 Journey Orchestration 事件配置 XDM 模式和数据集、在 Journey Orchestration 中定义事件，以及配置配置源系统来形成事件流
 feature: Journey Orchestration
 topics: Events
@@ -11,7 +11,7 @@ activity: setup
 translation-type: tm+mt
 source-git-commit: dafd8b529ec4326dd04fcf4ad766b0856cb3cfcc
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '255'
 ht-degree: 36%
 
 ---
@@ -19,19 +19,19 @@ ht-degree: 36%
 
 # 配置流事件
 
-[!UICONTROL Journey Orchestration] 倾听事件，并根据这些事件安排客户旅程中的最佳下一步行动。事件可以与：
+[!UICONTROL Journey Orchestration] 倾听事件，并根据这些事件安排客户旅程中的最佳后续行动。事件可以与：
 
-* 个人的直接操作（例如，他们购买产品、访问商店或放弃在线购物车），或
-* 与个人相关的事情（例如，他们达到10,000个忠诚点）
+* 个人的直接操作（例如，他们购买了产品、访问了商店或放弃了在线购物车），或
+* 与个人有关的事情（例如，他们达到了10,000个忠诚度点）
 
-[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 通过传送到Adobe Experience Platform [!UICONTROL streaming ingestion]。
+[!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 将通过发送到Adobe Experience Platform  [!UICONTROL streaming ingestion]
 
 >[!NOTE]
 >
 >您需要熟悉：
 >
 >* [体验数据模型(XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [如何为体验模式构建XDM事件](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
+>* [如何为体验模式创作XDM事件](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
 >* [流数据摄取](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
 >
 >
@@ -45,7 +45,7 @@ ht-degree: 36%
 
 以下视频介绍如何：
 
-* 为[!UICONTROL Journey Orchestration]模式配置XDM事件和数据集
+* 为[!UICONTROL Journey Orchestration]事件配置XDM模式和数据集
 * 在[!UICONTROL Journey Orchestration]中定义事件
 * 将源系统配置为流事件
 
