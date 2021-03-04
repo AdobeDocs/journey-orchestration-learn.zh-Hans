@@ -1,25 +1,26 @@
 ---
-title: 验证和发布旅程
-description: 您可以使用测试用户档案，在发布旅程之前对其进行测试。 这使您能够分析个人在旅程中的流动情况，并在发布前排除故障。
-feature: Journey Orchestration
+title: 验证和发布历程
+description: “了解如何使用测试用户档案在发布之前测试您的旅程。 ”
+feature: 历程
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
+role: 业务从业者，管理员
 translation-type: tm+mt
-source-git-commit: 56b3abb5d3a69a516d45eb889932c6036ce54798
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 26%
+source-wordcount: '112'
+ht-degree: 28%
 
 ---
 
 
 # 验证和发布旅程
 
-您可以使用测试用户档案，在发布旅程之前对其进行测试。 这使您能够分析个人在旅程中的流动情况，并在发布前排除故障。
+您可以在发布之前使用测试用户档案测试您的旅程。 这使您能够分析个人在旅程中的流向，并在发布前排除故障。
 
 以下视频介绍如何：
 
@@ -31,5 +32,5 @@ ht-degree: 26%
 ## 其他资源
 
 * [Journey Orchestration 帮助中心](https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html)：
-   * [测试旅程](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeytesting.html)
-   * [发布旅程](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeypublication.html)
+   * [测试历程](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeytesting.html)
+   * [发布历程](https://docs.adobe.com/content/help/en/journeys/using/building-journeys/journeypublication.html)
