@@ -1,18 +1,19 @@
 ---
 title: 了解 Journey Orchestration
-description: 了解 Journey Orchestration 的概念、它支持的用例类型以及 Journey Orchestration 工作原理的关键要素。
-feature: Journey Orchestration
+description: “了解Journey Orchestration的概念、它支持的使用案例类型以及Journey Orchestration工作方式的关键元素。”
+feature: 概述
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
+role: 业务从业者，管理员
 translation-type: tm+mt
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 100%
+source-wordcount: '330'
+ht-degree: 92%
 
 ---
 
