@@ -1,7 +1,7 @@
 ---
 title: 跳到另一个旅程
 description: '了解如何将个人从一个旅程推送到另一个旅程。 '
-feature: Journey Orchestration
+feature: 历程
 topics: activity
 kt: 6695
 thumbnail: 330560.jpg
@@ -9,11 +9,12 @@ audience: user
 doc-type: video
 activity: use
 team: PM
-translation-type: ht
-source-git-commit: 8b8b26c5913717520e84aa9d5aa783c2c3434214
-workflow-type: ht
-source-wordcount: '79'
-ht-degree: 100%
+role: 业务从业者，管理员
+translation-type: tm+mt
+source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+workflow-type: tm+mt
+source-wordcount: '83'
+ht-degree: 95%
 
 ---
 
@@ -27,7 +28,7 @@ ht-degree: 100%
 * 通过将非常复杂的旅程拆分为若干旅程来简化其设计
 * 基于通用且可重用的旅程模式构建旅程
 
->[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/330560?quality=12)
 
 ## 其他资源
 
