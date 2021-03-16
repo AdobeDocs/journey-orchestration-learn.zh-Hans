@@ -4,10 +4,10 @@ description: Journey Orchestration 使您可以利用存储在事件或数据源
 products: Journey orchestration
 role: 业务从业者，管理员
 translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 98%
+source-wordcount: '209'
+ht-degree: 97%
 
 ---
 
@@ -18,8 +18,8 @@ ht-degree: 98%
 
 ## 新增内容
 
+* **[更新用户档案操作](/help/building-a-journey/update-profile-action.md)**
 * **[跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)**
-
    <br>
    *了解如何将个人从一个旅程推送另一个旅程。*
 
