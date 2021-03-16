@@ -11,10 +11,10 @@ getting-started-title: 帮助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html
 level: 初学者
 translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 98%
+source-wordcount: '101'
+ht-degree: 96%
 
 ---
 
@@ -30,6 +30,7 @@ ht-degree: 98%
 + 构建旅程 {#building-a-journey}
    + [创建历程](/help/building-a-journey/creating-a-journey.md)
    + [跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)
+   + [更新用户档案操作](/help/building-a-journey/update-profile-action.md)
 + [验证和发布旅程](/help/validate-and-publish-a-journey.md)
 + [通过报告工具分析旅程](/help/analyze-a-journey-via-reporting-tools.md)
 + [向 Adobe Experience Platform 报告旅程步骤事件 ](/help/reporting-step-events-to-adobe-experience-platform.md)
