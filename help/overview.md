@@ -2,15 +2,15 @@
 title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
-role: 业务从业者，管理员
-translation-type: tm+mt
-source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+role: 商业从业者、管理员
+exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
+translation-type: ht
+source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
+workflow-type: ht
 source-wordcount: '209'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
-
 
 # 概述
 
@@ -73,4 +73,3 @@ ht-degree: 97%
 
 * [Journey Orchestration 帮助中心](https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html)
 * [Adobe Experience Platform 教程](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/overview.html)
-
