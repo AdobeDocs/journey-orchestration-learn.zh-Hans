@@ -1,6 +1,6 @@
 ---
 title: 了解 Journey Orchestration
-description: “了解Journey Orchestration的概念、它支持的使用案例类型以及Journey Orchestration工作方式的关键元素。”
+description: “了解 Journey Orchestration 的概念、它支持的用例类型以及 Journey Orchestration 工作方式的关键元素。”
 feature: 概述
 topics: Introduction
 kt: 2773
@@ -8,12 +8,12 @@ thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: 业务从业者，管理员
-translation-type: tm+mt
+role: 商业从业者、管理员
+translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '330'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->这些配置步骤需要技术知识。您需要熟悉[体验数据模型 (XDM)](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) 和[如何构建 XDM 体验事件架构](https://docs.adobe.com/content/help/en/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)。
+>这些配置步骤需要技术知识。您需要熟悉[体验数据模型 (XDM)](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html) 和[如何构建 XDM 体验事件架构](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)。
 
 ## 如何创建、发布和分析旅程
 
@@ -55,7 +55,7 @@ ht-degree: 92%
 ## 其他资源
 
 * [Journey Orchestration 帮助中心](https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 教程](https://docs.adobe.com/content/help/en/platform-learn/tutorials/overview.html)
+* [Adobe Experience Platform 教程](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/overview.html)
 * [如何查找有关 Journey Orchestration 的帮助](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform 移动端软件包 - 发布](https://docs.adobe.com/content/help/en/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
+* [Adobe Experience Platform 移动端软件包 - 发布](https://docs.adobe.com/content/help/zh-Hans/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
 * [Adobe Experience Platform 位置服务](https://docs.adobe.com/content/help/zh-Hans/places/using/home.html)
