@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/zh-Hans/journey-orchestration
 getting-started-title: 帮助中心
 getting-started-url: https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html
 level: 初学者
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
