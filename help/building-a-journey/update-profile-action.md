@@ -1,10 +1,10 @@
 ---
 title: 更新用户档案操作
 description: 了解如何使用来自事件、数据源的信息或使用特定值更新现有 Adobe Experience Platform 用户档案。
-feature: 操作
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
-role: 商业从业者
+role: Business Practitioner
 activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09

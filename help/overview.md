@@ -2,7 +2,7 @@
 title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
-role: 商业从业者、管理员
+role: Business Practitioner, Administrator
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

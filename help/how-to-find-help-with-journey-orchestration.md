@@ -1,14 +1,14 @@
 ---
 title: 如何查找有关 Journey Orchestration 的帮助
 description: 了解如何轻松找到帮助
-feature: 概述
+feature: Overview
 topics: Help and Support
 kt: 4019
 thumbnail: 32010.jpg
 audience: developer, business user, admin
 doc-type: video
 activity: understand
-role: 业务从业者，管理员
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

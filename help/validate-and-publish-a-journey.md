@@ -1,14 +1,14 @@
 ---
 title: 验证和发布历程
 description: “了解如何使用测试用户档案在发布之前测试您的旅程。 ”
-feature: 历程
+feature: Journeys
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: 业务从业者，管理员
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

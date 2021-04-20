@@ -1,14 +1,14 @@
 ---
 title: 使用区段鉴别事件
 description: 了解在何处配置区段以及如何在旅程中配置区段资格事件。
-feature: 细分、事件
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
 audience: user, developer
 doc-type: video
 activity: use
-role: 业务从业者，管理员
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

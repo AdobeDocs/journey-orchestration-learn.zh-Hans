@@ -1,14 +1,14 @@
 ---
 title: 为AdobeJourney Orchestration配置流事件
 description: “了解如何为Journey Orchestration事件配置XDM模式和数据集，定义Journey Orchestration中的事件，以及如何配置源系统以流式事件”
-feature: 数据源、事件、模式
+feature: Data Sources, Events, Schemas
 topics: Events
 kt: 3731
 thumbnail: 29338.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: 管理员
+role: Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

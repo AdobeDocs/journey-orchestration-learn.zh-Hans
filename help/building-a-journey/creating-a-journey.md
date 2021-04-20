@@ -1,14 +1,14 @@
 ---
 title: 使用 Adobe Journey Orchestration 创建旅程
 description: “了解如何创建新旅程、从事件开始处理、使用编排控件控制旅程的流向和时机以及使用操作参与旅程中的各个阶段。”
-feature: 历程
+feature: Journeys
 topics: Create a journey
 kt: 2789
 thumbnail: 29696.jpg
 audience: user
 doc-type: video
 activity: use
-role: 商业从业者、管理员
+role: Business Practitioner, Administrator
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

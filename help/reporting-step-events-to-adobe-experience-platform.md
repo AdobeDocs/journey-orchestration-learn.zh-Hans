@@ -1,14 +1,14 @@
 ---
 title: '向 Adobe Experience Platform 报告旅程步骤事件  '
 description: 了解事件是什么旅程步骤、哪些数据步骤以及如何探索它们。
-feature: 历程
+feature: Journeys
 topics: Introduction
 kt: 5488
 thumbnail: 36636.jpg
 audience: user
 doc-type: video
 activity: use
-role: 业务从业者，管理员
+role: Business Practitioner, Administrator
 translation-type: tm+mt
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: tm+mt

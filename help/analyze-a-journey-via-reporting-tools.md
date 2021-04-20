@@ -1,14 +1,14 @@
 ---
 title: 通过报告工具分析旅程
 description: “了解如何导航到旅程的报告、如何自定义报告的日期范围，以及如何保存报告模板以供将来使用。”
-feature: 报告
+feature: Reports
 topics: Introduction
 kt: 2777
 thumbnail: 29321.jpg
 audience: user
 doc-type: video
 activity: use
-role: 商业从业者、管理员
+role: Business Practitioner, Administrator
 exl-id: f6f13fba-d815-424f-86e5-918577609882
 translation-type: ht
 source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829

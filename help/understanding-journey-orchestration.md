@@ -1,14 +1,14 @@
 ---
 title: 了解 Journey Orchestration
 description: “了解 Journey Orchestration 的概念、它支持的用例类型以及 Journey Orchestration 工作方式的关键元素。”
-feature: 概述
+feature: Overview
 topics: Introduction
 kt: 2773
 thumbnail: 29307.jpg
 audience: user, developer
 doc-type: video
 activity: understand
-role: 商业从业者、管理员
+role: Business Practitioner, Administrator
 translation-type: ht
 source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
 workflow-type: ht
