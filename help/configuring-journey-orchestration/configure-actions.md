@@ -1,30 +1,29 @@
 ---
 title: 配置AdobeJourney Orchestration
-description: 了解如何为Journey Orchestration配置动作以及如何在旅程中使用。
-feature: Actions
+description: 了解如何配置Journey Orchestration操作以及如何在历程中使用。
+feature: 操作
 topics: Custom Actions
 kt: 2775
 thumbnails: 29638.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+role: Admin
+exl-id: dd116572-a9f1-4608-b04d-e02c17df9587
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 12%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 
+# 配置 [!UICONTROL custom actions]
 
-# 配置[!UICONTROL custom actions]
+[!UICONTROL Actions] 是您为个人提 [!UICONTROL Journey Orchestration] 供个性化实时体验的接触点。这些渠道可以包括传统的消息传送渠道，如推送通知、电子邮件或短信，或您在业务中使用的任何其他数字参与方式。
 
-[!UICONTROL Actions] 是您为个人提 [!UICONTROL Journey Orchestration] 供个性化实时体验的切入点。这些服务可能包括传统的消息渠道，如推送通知、电子邮件、短信，或您在业务中使用的任何其他数字互动方式。
+任何提供商提供的任何服务，如果通过具有JSON格式有效负载的REST API来调用，则都可以在[!UICONTROL Journey Orchestration]中配置为[!UICONTROL Action]。
 
-任何提供商提供的任何服务均可通过具有JSON格式负载的REST API调用，这些服务均可配置为[!UICONTROL Journey Orchestration]中的[!UICONTROL Action]。
-
-以下视频介绍如何为[!UICONTROL Journey Orchestration]配置[!UICONTROL Action]，以及如何在旅程中使用它。
+以下视频介绍如何为[!UICONTROL Journey Orchestration]配置[!UICONTROL Action]，以及如何在历程中使用它。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29638?quality=12)
 
