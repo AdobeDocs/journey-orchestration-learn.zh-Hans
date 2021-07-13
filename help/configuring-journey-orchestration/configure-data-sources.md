@@ -1,35 +1,34 @@
 ---
 title: 为AdobeJourney Orchestration配置数据源
-description: “了解如何配置Experience Platform数据源、配置外部数据源以及在旅程中查找和使用数据。”
-feature: Data Sources
+description: “了解如何配置Experience Platform数据源、配置外部数据源，以及在历程中查找和使用数据。”
+feature: 数据源
 topics: Data Sources
 kt: 2774
 thumbnail: 29406.jpg
 audience: developer
 doc-type: video
 activity: setup
-role: Administrator
-translation-type: tm+mt
-source-git-commit: 490804cfcfef533d1028d12afa350d78efb56e36
+role: Admin
+exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 15%
+source-wordcount: '143'
+ht-degree: 16%
 
 ---
 
-
 # 配置数据源
 
-[!UICONTROL Journey Orchestration] 允许您连接到Adobe Experience Platform或其他第三方数据源以检索可用于以下项目的旅程中的其他信息：
+[!UICONTROL Journey Orchestration] 允许您连接到Adobe Experience Platform或其他第三方数据源，以检索可在历程中使用的其他信息，用于：
 
-* 条件定义
-* 实际操作中的参数和个性化数据
+* 条件的定义
+* 操作中的参数和个性化数据
 * [!UICONTROL Custom timer] 定义
 * 自定义时区定义
 
-如果您的旅程仅利用来自事件负载的本地数据，则不需要此配置。
+如果您的历程只利用来自事件有效负载的本地数据，则不需要此配置。
 
-以下视频介绍如何：配置Experience Platform数据源和外部数据源，以及如何在旅程中查找和使用数据。
+以下视频介绍如何：配置Experience Platform数据源和外部数据源，以及如何在历程中查找和使用数据。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12)
 
