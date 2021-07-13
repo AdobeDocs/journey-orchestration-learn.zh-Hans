@@ -2,12 +2,11 @@
 title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
-role: Business Practitioner, Administrator
+role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-translation-type: ht
-source-git-commit: fbf90212287b8b4aeba7973827f7a1e1a9f04829
-workflow-type: ht
-source-wordcount: '209'
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+workflow-type: tm+mt
+source-wordcount: '206'
 ht-degree: 100%
 
 ---
@@ -16,12 +15,12 @@ ht-degree: 100%
 
 [!UICONTROL Journey Orchestration] 是与 Adobe Experience Platform 集成的应用程序服务。它使您可以利用存储在事件或数据源中的情境数据构建实时编排用例。
 
-## 新增内容
+## 新增功能
 
-* **[更新用户档案操作](/help/building-a-journey/update-profile-action.md)**
-* **[跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)**
+* **[“更新个人资料”操作](/help/building-a-journey/update-profile-action.md)**
+* **[跳转到另一历程](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
-   *了解如何将个人从一个旅程推送另一个旅程。*
+   *了解如何将个人从一个历程推送到另一个。*
 
 ## 员工挑选
 
@@ -37,7 +36,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>了解 Journey Orchestration 的概念、它支持的用例类型以及 Journey Orchestration 工作原理的关键要素。</em>
+    <em>了解 Journey Orchestration 的概念、它支持的用例类型以及 Journey Orchestration 如何工作的关键要素。</em>
     <p>
   </td>
   <td>
