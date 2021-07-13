@@ -1,31 +1,30 @@
 ---
 title: 验证和发布历程
-description: “了解如何使用测试用户档案在发布之前测试您的旅程。 ”
-feature: Journeys
+description: “了解如何使用测试用户档案在发布历程之前对历程进行测试。 ”
+feature: 历程
 topics: Test and publish a journey
 kt: 2778
 thumbnail: 30066.jpg
 audience: user
 doc-type: video
 activity: use
-role: Business Practitioner, Administrator
-translation-type: tm+mt
-source-git-commit: dcfca5cee7399c2e708d29dbc7dcdea1114805f5
+role: User, Admin
+exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
+source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 28%
+source-wordcount: '109'
+ht-degree: 30%
 
 ---
 
-
 # 验证和发布旅程
 
-您可以在发布之前使用测试用户档案测试您的旅程。 这使您能够分析个人在旅程中的流向，并在发布前排除故障。
+您可以使用测试用户档案在历程发布之前对其进行测试。 这允许您分析个人在历程中的流动方式，并在发布前进行故障诊断。
 
 以下视频介绍如何：
 
-* 启用并使用&#x200B;**[!UICONTROL test mode]**&#x200B;验证旅程
-* 发布旅程并管理其状态
+* 启用并使用&#x200B;**[!UICONTROL test mode]**&#x200B;验证历程
+* 发布历程并管理其状态
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
