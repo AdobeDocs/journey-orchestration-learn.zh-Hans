@@ -1,19 +1,19 @@
 ---
 title: Journey Orchestration 教程 - 概述
-description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
+description: Journey Orchestration允许您使用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 62%
 
 ---
 
 # 概述
 
-[!UICONTROL Journey Orchestration] 是与 Adobe Experience Platform 集成的应用程序服务。它使您可以利用存储在事件或数据源中的情境数据构建实时编排用例。
+[!UICONTROL Journey Orchestration] 是与 Adobe Experience Platform 集成的应用程序服务。它允许您使用存储在事件或数据源中的情境数据构建实时编排用例。
 
 ## 新增功能
 
@@ -49,7 +49,7 @@ ht-degree: 100%
     </a>
     </div>
     <p>
-    <em>了解如何创建新旅程、开始事件、使用编排控制旅程的流程和时间，以及使用操作来参与旅程中的各个点。</em>
+    <em>了解如何创建旅程、开始事件、使用编排控制旅程的流程和时间，以及使用操作来参与旅程中的各个点。</em>
     <p>
   </td>
   <td>
@@ -70,5 +70,5 @@ ht-degree: 100%
 
 ## 其他资源
 
-* [Journey Orchestration 帮助中心](https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html)
-* [Adobe Experience Platform 教程](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/overview.html)
+* [Journey Orchestration 帮助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hans)
+* [Adobe Experience Platform 教程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)

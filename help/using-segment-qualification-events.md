@@ -1,7 +1,7 @@
 ---
 title: 使用区段鉴别事件
 description: 了解在何处配置区段以及如何在旅程中配置区段鉴别事件。
-feature: 区段、事件
+feature: Segments, Events
 topics: Events
 kt: 5485
 thumbnail: 37901.jpg
@@ -10,16 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
-source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
+source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 86%
+source-wordcount: '135'
+ht-degree: 61%
 
 ---
 
 # 使用区段鉴别事件
 
-区段鉴别事件允许您的旅程聆听 Adobe Experience Platform 区段中用户档案的进出口，以便让个人进入旅程或在旅程中前进。
+区段鉴别事件允许您的旅程监听Adobe Experience Platform区段中的用户档案的入口和出口。 此事件类型用于让个人进入历程或在历程中前进。
 
 使用案例示例包括：
 
