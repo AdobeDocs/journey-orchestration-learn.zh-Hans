@@ -1,7 +1,7 @@
 ---
-title: “更新个人资料”操作
+title: “更新用户档案”操作
 description: 了解如何使用来自事件、数据源的信息或使用特定值更新现有 Adobe Experience Platform 用户档案。
-feature: 操作
+feature: Actions
 kt: 7313
 thumbnail: 332112.jpg
 role: User
@@ -9,13 +9,13 @@ activity: use
 team: PM
 exl-id: 5e45b702-2c99-49ad-ae00-65f7555acd09
 source-git-commit: 6f3d3fcac73e5c770ae3171e2e14a22713f0d571
-workflow-type: tm+mt
-source-wordcount: '71'
+workflow-type: ht
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
 
-# “更新个人资料”操作
+# “更新用户档案”操作
 
 了解如何使用来自事件、数据源的信息或使用特定值更新现有 Adobe Experience Platform 用户档案。
 
