@@ -1,23 +1,23 @@
 ---
 title: Journey Orchestration 教程 - 概述
-description: Journey Orchestration允许您使用存储在事件或数据源中的情境数据构建实时编排用例
+description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
 source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # 概述
 
-[!UICONTROL Journey Orchestration] 是与 Adobe Experience Platform 集成的应用程序服务。它允许您使用存储在事件或数据源中的情境数据构建实时编排用例。
+[!UICONTROL Journey Orchestration] 是与 Adobe Experience Platform 集成的应用程序服务。您可以利用存储在事件或数据源中的情境数据构建实时编排用例。
 
 ## 新增功能
 
-* **[“更新个人资料”操作](/help/building-a-journey/update-profile-action.md)**
+* **[更新用户档案操作](/help/building-a-journey/update-profile-action.md)**
 * **[跳转到另一历程](/help/building-a-journey/jumping-to-another-journey.md)**
    <br>
    *了解如何将个人从一个历程推送到另一个。*
@@ -36,7 +36,7 @@ ht-degree: 62%
     </a>
     </div>
     <p>
-    <em>了解 Journey Orchestration 的概念、它支持的用例类型以及 Journey Orchestration 如何工作的关键要素。</em>
+    <em>了解 Journey Orchestration 的概念、支持的用例类型以及 Journey Orchestration 如何工作的关键要素。</em>
     <p>
   </td>
   <td>
@@ -49,7 +49,7 @@ ht-degree: 62%
     </a>
     </div>
     <p>
-    <em>了解如何创建旅程、开始事件、使用编排控制旅程的流程和时间，以及使用操作来参与旅程中的各个点。</em>
+    <em>了解如何创建新旅程、开始事件、使用编排控制历程的流程和时间，以及使用操作来参与旅程中的各个点。</em>
     <p>
   </td>
   <td>
@@ -71,4 +71,4 @@ ht-degree: 62%
 ## 其他资源
 
 * [Journey Orchestration 帮助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hans)
-* [Adobe Experience Platform 教程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=en)
+* [Adobe Experience Platform 教程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hans)
