@@ -5,15 +5,14 @@ user-guide-description: 了解如何配置、创建、发布和分析历程。
 user-guide-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Journey+Orchestration#recommended/solutions/journey-orchestration
-tutorials-title: 教程
-tutorials-url: https://docs.adobe.com/content/help/zh-Hans/journey-orchestration-learn/tutorials/overview.html
-getting-started-title: 帮助中心
-getting-started-url: https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html
+tutorials-title: Tutorials
+tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/overview.html
+getting-started-title: Help Center
+getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 level: Beginner
-translation-type: ht
 source-git-commit: 76bd217ff3b1ad635149ab1227b8eba3fc7afb87
-workflow-type: ht
-source-wordcount: '101'
+workflow-type: tm+mt
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -29,9 +28,9 @@ ht-degree: 100%
 + [配置操作](/help/configuring-journey-orchestration/configure-actions.md)
 + 构建旅程 {#building-a-journey}
    + [创建历程](/help/building-a-journey/creating-a-journey.md)
-   + [跳到另一个旅程](/help/building-a-journey/jumping-to-another-journey.md)
-   + [更新用户档案操作](/help/building-a-journey/update-profile-action.md)
-+ [验证和发布旅程](/help/validate-and-publish-a-journey.md)
+   + [跳转到另一历程](/help/building-a-journey/jumping-to-another-journey.md)
+   + [“更新用户档案”操作](/help/building-a-journey/update-profile-action.md)
++ [验证和发布历程](/help/validate-and-publish-a-journey.md)
 + [通过报告工具分析旅程](/help/analyze-a-journey-via-reporting-tools.md)
-+ [向 Adobe Experience Platform 报告旅程步骤事件 ](/help/reporting-step-events-to-adobe-experience-platform.md)
++ [报告 Adobe Experience Platform 的历程步骤事件](/help/reporting-step-events-to-adobe-experience-platform.md)
 + [如何查找有关 Journey Orchestration 的帮助](/help/how-to-find-help-with-journey-orchestration.md)

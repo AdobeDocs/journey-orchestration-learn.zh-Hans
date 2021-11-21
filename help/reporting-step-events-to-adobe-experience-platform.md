@@ -20,7 +20,7 @@ ht-degree: 55%
 # 向 [!UICONTROL Adobe Experience Platform ] 报告步骤事件
 
 [!UICONTROL Journey Orchestration] 自动将旅程性能数据发送到 [!UICONTROL Adobe Experience Platform]，以使其可与其他数据结合进行分析。
-以下视频介绍什么是[!UICONTROL journey step events]以及在[!UICONTROL Experience Platform]上自动创建的[!UICONTROL data steps]。
+以下视频介绍了 [!UICONTROL journey step events] 是和 [!UICONTROL data steps] 自动创建于 [!UICONTROL Experience Platform].
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12)
 
