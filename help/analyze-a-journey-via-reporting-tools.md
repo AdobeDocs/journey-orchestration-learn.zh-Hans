@@ -1,6 +1,6 @@
 ---
 title: 通过报告工具分析历程
-description: “了解如何导航到旅程的报告、如何自定义报告的日期范围，以及如何保存报告模板以供将来使用。”
+description: '了解如何导航到旅程的报告、如何自定义报告的日期范围，以及如何保存报告模板以供将来使用。 '
 feature: Reports
 topics: Introduction
 kt: 2777
@@ -10,7 +10,7 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: f6f13fba-d815-424f-86e5-918577609882
-source-git-commit: a549754dd3fbffb7b45a7d66db6778bceb13ef7d
+source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
