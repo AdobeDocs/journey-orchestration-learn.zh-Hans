@@ -10,10 +10,10 @@ doc-type: video
 activity: setup
 role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 35%
+source-wordcount: '246'
+ht-degree: 23%
 
 ---
 
@@ -22,22 +22,22 @@ ht-degree: 35%
 [!UICONTROL Journey Orchestration] 监听事件并根据这些事件在客户历程中协调最佳的后续操作。 事件可以与以下事件相关：
 
 * 个人的直接操作（例如，他们购买了产品、访问了商店或放弃了在线购物车），或
-* 发生的与个人相关的事件（例如，他们达到10,000个忠诚点）
+* 发生与个人相关的事件（例如，它们达到10,000个忠诚点）
 
 [!UICONTROL Journey Orchestration] 事件 [!UICONTROL XDM experience events] 通过发送到Adobe Experience Platform的 [!UICONTROL streaming ingestion].
 
 >[!NOTE]
 >
->您需要熟悉：
+>您必须熟悉：
 >
->* [体验数据模型(XDM)](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/schemas/understanding-the-xdm-system-and-experience-data-model.html)
->* [如何为体验事件构建XDM架构](https://docs.adobe.com/content/help/zh-Hans/platform-learn/tutorials/schemas/create-your-first-schema-with-out-of-the-box-components.html)
->* [流数据摄取](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html)
+>* [体验数据模型(XDM)](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schemas-and-experience-data-model.html?lang=zh-Hans)
+>* [如何为体验事件构建XDM架构](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=zh-Hans)
+>* [流数据摄取](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/understanding-streaming-ingestion.html?lang=en)
 >
 >要了解视频中使用的示例，您还应该熟悉以下Adobe Experience Platform服务：
 >
->* [Adobe Experience Platform 移动端软件包 - 发布](https://docs.adobe.com/content/help/zh-Hans/core-services-learn/tutorials/launch-mobile/understanding-the-mobile-sdks.html)
->* [Adobe Experience Platform 位置服务](https://docs.adobe.com/content/help/zh-Hans/places/using/home.html)
+>* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
+>* [Adobe Experience Platform 位置服务](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
 
 
 ## 如何配置 [!UICONTROL streaming events]
@@ -50,7 +50,4 @@ ht-degree: 35%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?quality=12)
 
-## 其他资源
-
-* [Journey Orchestration 帮助中心](https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html)：
-   * [关于事件](https://docs.adobe.com/content/help/en/journeys/using/events-journeys/about-events.html)
+有关更多信息，请参阅 [关于事件](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) 部分。

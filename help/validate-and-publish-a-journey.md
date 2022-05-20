@@ -10,26 +10,18 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: 63d89150-7c1e-4869-9c8d-0371e0c82ee1
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 30%
+source-wordcount: '63'
+ht-degree: 7%
 
 ---
 
 # 验证和发布历程
 
-您可以使用测试用户档案在历程发布之前对其进行测试。 通过测试历程，您可以分析个人如何在历程中流动，并在发布前进行故障诊断。
-
-以下视频介绍如何：
-
-* 启用和使用 **[!UICONTROL test mode]** 验证旅程
-* 发布历程并管理其状态
+了解如何使用测试用户档案在发布历程之前对其进行测试。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12)
 
-## 其他资源
-
-* [Journey Orchestration 帮助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en)：
-   * [测试历程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
-   * [发布历程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
+有关 [测试历程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+和 [发布历程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)

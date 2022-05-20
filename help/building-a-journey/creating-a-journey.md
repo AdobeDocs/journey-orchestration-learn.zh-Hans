@@ -10,24 +10,16 @@ doc-type: video
 activity: use
 role: User, Admin
 exl-id: ec61db2f-7a0f-4161-af03-c3f2fe122e4d
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 59%
 
 ---
 
-# 创建历程
 
-以下视频介绍如何：
+# 使用 Adobe Journey Orchestration 创建旅程
 
-* 创造新旅程和开始事件
-* 使用 [!UICONTROL Orchestration] 控件控制旅程的流量和时间
-* 使用操作参与旅程中的各个点。
+了解如何创建旅程、开始事件、使用编排控件控制旅程的流程和时间，以及使用操作来参与旅程中的各个点。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29696?quality=12)
-
-## 其他资源
-
-* [Journey Orchestration 帮助中心](https://docs.adobe.com/content/help/zh-Hans/journeys/using/journey-orchestration-home.html)：
-   * [创建历程](https://docs.adobe.com/content/help/zh-Hans/journeys/using/building-journeys/about-journey-building/journey.html)

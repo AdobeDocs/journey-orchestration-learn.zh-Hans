@@ -10,10 +10,10 @@ doc-type: video
 activity: understand
 role: User, Admin
 exl-id: db4f69bb-183c-4376-9791-eb6b1f78ab32
-source-git-commit: 3a8f10c61b4533628dce358c0c84e289fdf5a1c4
+source-git-commit: 4deaf75fe9e9bb1d5b5a38172d04446f73ac523c
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 89%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
 1. [配置流事件](/help/configuring-journey-orchestration/configure-streaming-events.md) - 此配置是必需的，因为 [!UICONTROL Journey Orchestration] 设计为监听事件。
 1. [配置数据源](/help/configuring-journey-orchestration/configure-data-sources.md) - 如果您的历程只利用来自事件有效负载的本地数据，则不需要此配置。
-1. [配置自定义操作](/help/configuring-journey-orchestration/configure-actions.md)：如果要使用任何第三方提供商提供的服务，该服务可利用 JSON 格式有效负载通过 [!DNL REST API] 调用，则此配置为必需
+1. [配置自定义操作](/help/configuring-journey-orchestration/configure-actions.md):如果您要使用任何第三方提供商提供的可通过 [!DNL REST API] 具有JSON格式的有效负载
 
 >[!NOTE]
 >
@@ -56,5 +56,5 @@ ht-degree: 100%
 * [Journey Orchestration 帮助中心](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=zh-Hans)
 * [Adobe Experience Platform 教程](https://experienceleague.adobe.com/docs/platform-learn/tutorials/overview.html?lang=zh-Hans)
 * [如何查找有关 Journey Orchestration 的帮助](/help/understanding-journey-orchestration.md)
-* [Adobe Experience Platform 移动端软件包 - 发布](https://experienceleague.adobe.com/docs/mobile-sdk-learn/tutorials/fundamentals/understanding-the-mobile-sdks.html?lang=zh-Hans)
+* [Adobe Experience Platform 移动端软件包 - 发布](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=en)
 * [Adobe Experience Platform 位置服务](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hans)
