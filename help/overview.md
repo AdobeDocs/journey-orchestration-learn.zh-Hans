@@ -1,17 +1,17 @@
 ---
-title: Journey Orchestration 教程
+title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 19c80da551ace9a92ad4c21e8427c23abfd05163
-workflow-type: ht
-source-wordcount: '206'
+source-git-commit: 88ee4113f06f310b68ead54a156372d78cb934aa
+workflow-type: tm+mt
+source-wordcount: '208'
 ht-degree: 100%
 
 ---
 
-# Journey Orchestration 教程
+# Journey Orchestration 教程 - 概述
 
 [!UICONTROL Journey Orchestration] 是与 Adobe Experience Platform 集成的应用程序服务。您可以利用存储在事件或数据源中的情境数据构建实时编排用例。
 
