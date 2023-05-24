@@ -11,7 +11,7 @@ ht-degree: 98%
 
 ---
 
-# Journey Orchestration教程
+# Journey Orchestration教學課程
 
 [!UICONTROL Journey Orchestration] 是与 Adobe Experience Platform 集成的应用程序服务。您可以利用存储在事件或数据源中的情境数据构建实时编排用例。
 
@@ -34,7 +34,7 @@ ht-degree: 98%
 
 <div id="staff-picks-section">
 
-## 员工挑选
+## 员工精选
 
 <table>
 <tr>

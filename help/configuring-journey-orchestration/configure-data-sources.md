@@ -1,6 +1,6 @@
 ---
-title: 为AdobeJourney Orchestration配置数据源
-description: 了解如何配置Experience Platform数据源、配置外部数据源，以及在历程中查找和使用数据。
+title: 設定AdobeJourney Orchestration的資料來源
+description: 瞭解如何設定Experience Platform資料來源、設定外部資料來源，以及在歷程中尋找和使用資料。
 feature: Data Sources
 topics: Data Sources
 kt: 2774
@@ -19,8 +19,8 @@ ht-degree: 4%
 
 # 配置数据源
 
-了解如何配置Experience Platform数据源、配置外部数据源，以及在历程中查找和使用数据。
+瞭解如何設定Experience Platform資料來源、設定外部資料來源，以及在歷程中尋找和使用資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?quality=12&learn=on)
 
-有关更多信息，请参阅 [关于数据源](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) 部分。
+如需詳細資訊，請參閱 [關於資料來源](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) 區段。

@@ -1,6 +1,6 @@
 ---
-title: 验证和发布历程
-description: 了解如何使用测试用户档案在发布历程之前对其进行测试。
+title: 驗證和發佈歷程
+description: 瞭解如何使用測試設定檔，在發佈歷程之前測試歷程。
 feature: Journeys
 topics: Test and publish a journey
 kt: 2778
@@ -19,9 +19,9 @@ ht-degree: 7%
 
 # 验证和发布历程
 
-了解如何使用测试用户档案在发布历程之前对其进行测试。
+瞭解如何使用測試設定檔，在發佈歷程之前測試歷程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30066?quality=12&learn=on)
 
-有关 [测试历程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
-和 [发布历程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
+請參閱產品檔案，瞭解更多關於 [測試歷程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/testing-the-journey.html)
+和 [發佈歷程](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/publishing-the-journey.html)
