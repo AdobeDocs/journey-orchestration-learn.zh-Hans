@@ -1,6 +1,6 @@
 ---
 title: 报告 Adobe Experience Platform 的历程步骤事件
-description: 瞭解什麼是歷程步驟事件和資料步驟，以及如何探索它們。
+description: 了解什么是历程步骤事件和数据步骤，以及如何探索它们。
 feature: Journeys
 topics: Introduction
 kt: 5488
@@ -19,8 +19,8 @@ ht-degree: 20%
 
 # 向 [!UICONTROL Adobe Experience Platform ] 报告步骤事件
 
-瞭解什麼是歷程步驟事件和資料步驟，以及如何探索它們。
+了解什么是历程步骤事件和数据步骤，以及如何探索它们。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&learn=on)
 
-另請參閱 [歷程步驟分享概觀](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 以取得詳細資訊。
+参见 [历程步骤共享概述](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 了解更多信息。
