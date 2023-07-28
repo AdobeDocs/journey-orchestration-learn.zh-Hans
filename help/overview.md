@@ -2,9 +2,10 @@
 title: Journey Orchestration 教程 - 概述
 description: Journey Orchestration 使您可以利用存储在事件或数据源中的情境数据构建实时编排用例
 products: Journey orchestration
+feature: Overview
 role: User, Admin
 exl-id: e82cde5a-d100-49d7-bea1-5b6d11c1193f
-source-git-commit: 73eee54dae0f6a765e0dcd6bcab35cf67f891294
+source-git-commit: b32b245c9738b860d8f6417e7e37d079d75b07f9
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 98%
@@ -21,7 +22,7 @@ ht-degree: 98%
 
 * **[更新用户档案操作](/help/building-a-journey/update-profile-action.md)**
 * **[跳转到另一历程](/help/building-a-journey/jumping-to-another-journey.md)**
-   *了解如何将个人从一个历程推送到另一个。*
+  *了解如何将个人从一个历程推送到另一个。*
 
 </div>
 
