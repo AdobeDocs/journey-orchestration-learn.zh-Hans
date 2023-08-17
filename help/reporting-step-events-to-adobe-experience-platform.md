@@ -23,4 +23,4 @@ ht-degree: 20%
 
 >[!VIDEO](https://video.tv.adobe.com/v/36636?quality=12&learn=on)
 
-参见 [历程步骤共享概述](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 了解更多信息。
+请参阅 [历程步骤共享概述](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/sharing-journey-steps/sharing-overview.html?lang=en) 以了解更多信息。

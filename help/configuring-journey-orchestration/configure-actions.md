@@ -1,5 +1,5 @@
 ---
-title: 为AdobeJourney Orchestration配置操作
+title: 配置用于AdobeJourney Orchestration的操作
 description: 了解如何为Journey Orchestration配置操作以及如何在旅程中使用它。
 feature: Actions
 topics: Custom Actions

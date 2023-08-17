@@ -1,6 +1,6 @@
 ---
-title: 为AdobeJourney Orchestration配置数据源
-description: 了解如何配置Experience Platform数据源、配置外部数据源以及在历程中查找和使用数据。
+title: 配置用于AdobeJourney Orchestration的数据源
+description: 了解如何配置Experience Platform数据源、配置外部数据源以及在旅程中查找和使用数据。
 feature: Data Sources
 topics: Data Sources
 jira: KT-2774

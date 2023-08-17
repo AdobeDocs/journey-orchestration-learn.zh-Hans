@@ -19,7 +19,7 @@ ht-degree: 48%
 
 # 使用区段鉴别事件
 
-区段鉴别事件允许您的历程侦听Adobe Experience Platform区段中用户档案的进出口。 此事件类型用于使个人进入历程或在历程中前进。
+区段鉴别事件允许您的历程侦听Adobe Experience Platform区段中用户档案的进出口。 此事件类型用于让个人进入历程或在历程中前进。
 
 使用案例示例包括：
 
@@ -30,4 +30,4 @@ ht-degree: 48%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?quality=12&learn=on)
 
-有关更多信息，请参阅 [区段资格事件](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
+有关更多信息，请参阅 [区段鉴别事件](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).

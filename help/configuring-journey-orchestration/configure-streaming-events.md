@@ -19,10 +19,10 @@ ht-degree: 30%
 
 # 配置流事件
 
-[!UICONTROL Journey Orchestration] 侦听事件并根据这些事件在客户历程中编排最佳的后续行动。 事件可能与：
+[!UICONTROL Journey Orchestration] 侦听事件，并根据这些事件在客户历程中编排最佳的后续行动。 事件可能与：
 
 * 个人的直接行为（例如，他们购买产品、访问商店或放弃在线购物车），或
-* 发生的事件与个人相关（例如，他们达到10,000个忠诚点）
+* 发生的事件与个人相关（例如，他们达到10,000个忠诚点数）
 
 [!UICONTROL Journey Orchestration] 事件为 [!UICONTROL XDM experience events] 通过发送至Adobe Experience Platform的内容 [!UICONTROL streaming ingestion].
 
