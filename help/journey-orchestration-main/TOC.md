@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/journey-orchestration-lear
 getting-started-title: Help Center
 getting-started-url: https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html
 auto-video-transcripts: true
-source-git-commit: 12630c19ad7c276935d5a5043ffb1310106d5019
+source-git-commit: 5781e279d59d181619345f2873302479b6c28a84
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 # Journey Orchestration 教程 {#tutorials}
 
-+ [概述](/help/overview.md)
++ [Journey Orchestration 教程](/help/overview.md)
 + [了解 Journey Orchestration](/help/understanding-journey-orchestration.md)
 + [配置流事件](/help/configuring-journey-orchestration/configure-streaming-events.md)
 + [使用区段鉴别事件](/help/using-segment-qualification-events.md)
