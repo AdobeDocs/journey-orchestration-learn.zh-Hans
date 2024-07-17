@@ -1,6 +1,6 @@
 ---
 title: 配置用于AdobeJourney Orchestration的数据源
-description: 了解如何配置Experience Platform数据源、配置外部数据源以及在旅程中查找和使用数据。
+description: 了解如何配置Experience Platform数据Source、配置外部数据源以及在旅程中查找和使用数据。
 feature: Data Sources
 topics: Data Sources
 jira: KT-2774
@@ -12,8 +12,8 @@ role: Admin
 exl-id: 06fbf5ae-aae1-4a62-af84-18303c9674c9
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 3%
+source-wordcount: '68'
+ht-degree: 7%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 3%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29406?learn=on){transcript=true}
 
-欲了解更多信息，请参见 [关于数据源](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en) 部分。
+有关详细信息，请参阅产品文档中的[关于数据源](https://experienceleague.adobe.com/docs/journeys/using/data-source-journeys/about-data-sources.html?lang=en)部分。

@@ -12,8 +12,8 @@ role: User, Admin
 exl-id: fc950a20-1543-4eb7-9ca0-2148216a2afc
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 47%
+source-wordcount: '128'
+ht-degree: 53%
 
 ---
 
@@ -30,4 +30,4 @@ ht-degree: 47%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37901?learn=on){transcript=true}
 
-有关更多信息，请参阅 [区段鉴别事件](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en).
+有关详细信息，请参阅[区段资格事件](https://experienceleague.adobe.com/docs/journeys/using/building-journeys/about-journey-building/events-activities/segment-qualification-events.html?lang=en)。

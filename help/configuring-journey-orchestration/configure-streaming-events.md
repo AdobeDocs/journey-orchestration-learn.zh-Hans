@@ -12,19 +12,19 @@ role: Admin
 exl-id: 2d0c05d5-803e-4a79-911f-ceb380ff9d0e
 source-git-commit: 9db2765ee5e9520280711a6b1fe3c618963f6f87
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 30%
+source-wordcount: '201'
+ht-degree: 19%
 
 ---
 
 # 配置流事件
 
-[!UICONTROL Journey Orchestration] 侦听事件，并根据这些事件在客户历程中编排最佳的后续行动。 事件可能与：
+[!UICONTROL Journey Orchestration]侦听事件并根据这些事件在客户历程中编排最佳的后续行动。 事件可能与：
 
 * 个人的直接行为（例如，他们购买产品、访问商店或放弃在线购物车），或
 * 发生的事件与个人相关（例如，他们达到10,000个忠诚点数）
 
-[!UICONTROL Journey Orchestration] 事件为 [!UICONTROL XDM experience events] 通过发送至Adobe Experience Platform的内容 [!UICONTROL streaming ingestion].
+[!UICONTROL Journey Orchestration]事件是通过[!UICONTROL streaming ingestion]发送到Adobe Experience Platform的[!UICONTROL XDM experience events]。
 
 >[!NOTE]
 >
@@ -39,14 +39,14 @@ ht-degree: 30%
 >* [Adobe Experience Platform Mobile SDK](https://experienceleague.adobe.com/docs/platform-learn/data-collection/mobile-sdk/overview.html?lang=zh-Hans)
 >* [Adobe Experience Platform 位置服务](https://experienceleague.adobe.com/docs/places/using/home.html?lang=zh-Hans)
 
-## 如何配置 [!UICONTROL streaming events]
+## 如何配置[!UICONTROL streaming events]
 
 以下视频介绍如何：
 
-* 为配置XDM架构和数据集 [!UICONTROL Journey Orchestration] 事件
-* 在中定义事件 [!UICONTROL Journey Orchestration]
+* 为[!UICONTROL Journey Orchestration]事件配置XDM架构和数据集
+* 在[!UICONTROL Journey Orchestration]中定义事件
 * 配置源系统以流式传输事件
 
 >[!VIDEO](https://video.tv.adobe.com/v/29338?learn=on){transcript=true}
 
-欲了解更多信息，请参见 [关于事件](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en) 部分。
+有关详细信息，请参阅产品文档的[关于事件](https://experienceleague.adobe.com/docs/journeys/using/events-journeys/about-events/about-events.html?lang=en)部分。
